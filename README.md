@@ -56,6 +56,15 @@ Data for the IRC-validated subset of **2,324 transition-state structures**, corr
 | `bondsbroken_IRC_B` | Number of bonds from the cyclic TS scaffold that are broken in the backward IRC endpoint connectivity. |
 | `IRC_energies` | Semicolon-separated list of relative IRC energies, usually in kcal/mol, with the TS energy set to `0.0`. |
 
+## Other assorted data
+
+The repository also includes additional data organized by workflow level:
+
+- [`data-level-1-smiles`](https://github.com/moldis-group/sears/tree/main/data-level-1-smiles): SMILES strings for all generated species.
+
+- [`data-level-2-smiles-rdkitgeom`](https://github.com/moldis-group/sears/tree/main/data-level-2-smiles-rdkitgeom): RDKit-generated geometries corresponding to the SMILES structures.
+
+- [`data-level-3-smiles-dftgeom`](https://github.com/moldis-group/sears/tree/main/data-level-3-smiles-dftgeom): DFT-optimized geometries for the corresponding species.
 
 ## References
 
