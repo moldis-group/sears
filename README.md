@@ -71,5 +71,5 @@ The repository also includes additional data organized by workflow level:
 1. [*A Chemical Space Perspective on Diastereomeric Barriers in Alkylperoxy-to-Hydroperoxyalkyl Isomerization*](https://doi.org/10.1021/acs.jpca.6c03201),  
    Raghunathan Ramakrishnan,    
    J. Phys. Chem. A (2026).     
-   Published as part of The Journal of Physical Chemistry A special issue “Stephen J. Klippenstein Festschrift”.  
+   Published as part of The Journal of Physical Chemistry A special issue “[_Stephen J. Klippenstein Festschrift_](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Published+as+part+of+The+Journal+of+Physical+Chemistry+A+special+issue+%E2%80%9CStephen+J.+Klippenstein+Festschrift%E2%80%9D.&btnG=)”.  
    
